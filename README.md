@@ -47,4 +47,4 @@ This is a simple **console-based Expense Tracker** built using Java. It allows u
 
 ```bash
 git clone https://github.com/Ankesh-11/Expense-Tracker.git
-cd expense-tracker-java
+cd expense
